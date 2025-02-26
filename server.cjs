@@ -1,4 +1,4 @@
-const employees = require('./db/employess.cjs');
+const employees = require('./db/employees.cjs');
 const express = require('express');
 
 const app = express();
